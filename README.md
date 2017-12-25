@@ -1,2 +1,4 @@
 # Python-For-Data-Aanalysis
-Practice for Pandas and some sort
+Hi. This repo. has been made to save the practice for python
+Happy to Enjoy it
+
